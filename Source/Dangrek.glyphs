@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1352";
 copyright = "Copyright 2012 Google Inc. All Rights Reserved.";
 customParameters = (
 {
@@ -13929,6 +13929,7 @@ unicode = 17E9;
 },
 {
 glyphname = uni17D2_1780;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -13965,9 +13966,11 @@ width = 0;
 }
 );
 note = uni17D2_1780;
+category = Letter;
 },
 {
 glyphname = uni17D2_1781;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14020,9 +14023,11 @@ width = 0;
 }
 );
 note = uni17D2_1781;
+category = Letter;
 },
 {
 glyphname = uni17D2_1782;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14069,6 +14074,7 @@ width = 0;
 }
 );
 note = uni17D2_1782;
+category = Letter;
 },
 {
 glyphname = uni17D21783;
@@ -14126,6 +14132,7 @@ note = uni17D21783;
 },
 {
 glyphname = uni17D2_1784;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14161,9 +14168,11 @@ width = 0;
 }
 );
 note = uni17D2_1784;
+category = Letter;
 },
 {
 glyphname = uni17D2_1785;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14216,9 +14225,11 @@ width = 0;
 }
 );
 note = uni17D2_1785;
+category = Letter;
 },
 {
 glyphname = uni17D2_1786;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14265,9 +14276,11 @@ width = 0;
 }
 );
 note = uni17D2_1786;
+category = Letter;
 },
 {
 glyphname = uni17D2_1787;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14320,6 +14333,7 @@ width = 0;
 }
 );
 note = uni17D2_1787;
+category = Letter;
 },
 {
 glyphname = uni17D21788;
@@ -14389,6 +14403,7 @@ note = uni17D21788;
 },
 {
 glyphname = uni17D2_1789;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14426,6 +14441,7 @@ width = 0;
 }
 );
 note = uni17D2_1789;
+category = Letter;
 },
 {
 glyphname = coeng_1789khmer.a;
@@ -14527,6 +14543,7 @@ note = coeng_1789khmer.a;
 },
 {
 glyphname = uni17D2_178A;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14567,9 +14584,11 @@ width = 0;
 }
 );
 note = uni17D2_178A;
+category = Letter;
 },
 {
 glyphname = uni17D2_178B;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14621,9 +14640,11 @@ width = 0;
 }
 );
 note = uni17D2_178B;
+category = Letter;
 },
 {
 glyphname = uni17D2_178C;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14685,6 +14706,7 @@ width = 0;
 }
 );
 note = uni17D2_178C;
+category = Letter;
 },
 {
 glyphname = uni17D2178D;
@@ -14748,6 +14770,7 @@ note = uni17D2178D;
 },
 {
 glyphname = uni17D2_178E;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14810,9 +14833,11 @@ width = 0;
 }
 );
 note = uni17D2_178E;
+category = Letter;
 },
 {
 glyphname = uni17D2_178F;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14853,9 +14878,11 @@ width = 0;
 }
 );
 note = uni17D2_178F;
+category = Letter;
 },
 {
 glyphname = uni17D2_1790;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14897,9 +14924,11 @@ width = 0;
 }
 );
 note = uni17D2_1790;
+category = Letter;
 },
 {
 glyphname = uni17D2_1791;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -14950,9 +14979,11 @@ width = 0;
 }
 );
 note = uni17D2_1791;
+category = Letter;
 },
 {
 glyphname = uni17D2_1792;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15014,9 +15045,11 @@ width = 0;
 }
 );
 note = uni17D2_1792;
+category = Letter;
 },
 {
 glyphname = uni17D2_1793;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15069,6 +15102,7 @@ width = 0;
 }
 );
 note = uni17D2_1793;
+category = Letter;
 },
 {
 glyphname = uni17D21794;
@@ -15116,6 +15150,7 @@ note = uni17D21794;
 },
 {
 glyphname = uni17D2_1795;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15157,9 +15192,11 @@ width = 0;
 }
 );
 note = uni17D2_1795;
+category = Letter;
 },
 {
 glyphname = uni17D2_1796;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15202,9 +15239,11 @@ width = 0;
 }
 );
 note = uni17D2_1796;
+category = Letter;
 },
 {
 glyphname = uni17D2_1797;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15244,9 +15283,11 @@ width = 0;
 }
 );
 note = uni17D2_1797;
+category = Letter;
 },
 {
 glyphname = uni17D2_1798;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15286,6 +15327,7 @@ width = 0;
 }
 );
 note = uni17D2_1798;
+category = Letter;
 },
 {
 glyphname = uni17D21799;
@@ -15366,6 +15408,7 @@ note = uni17D2179A;
 },
 {
 glyphname = uni17D2_179B;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15402,9 +15445,11 @@ width = 0;
 }
 );
 note = uni17D2_179B;
+category = Letter;
 },
 {
 glyphname = uni17D2_179C;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15450,6 +15495,7 @@ width = 0;
 }
 );
 note = uni17D2_179C;
+category = Letter;
 },
 {
 glyphname = uni17D2179F;
@@ -15507,6 +15553,7 @@ note = uni17D2179F;
 },
 {
 glyphname = uni17D2_17A0;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15549,9 +15596,11 @@ width = 0;
 }
 );
 note = uni17D2_17A0;
+category = Letter;
 },
 {
 glyphname = uni17D2_17A2;
+lastChange = "2021-04-15 12:03:26 +0000";
 layers = (
 {
 layerId = "D08966C8-96EF-481A-BF9E-1465DF9248E1";
@@ -15604,6 +15653,7 @@ width = 0;
 }
 );
 note = uni17D2_17A2;
+category = Letter;
 },
 {
 glyphname = uni17BB.b;
